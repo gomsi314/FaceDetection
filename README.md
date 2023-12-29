@@ -9,3 +9,6 @@ This project focuses on real-time face detection with the added capability of de
 - **Real-time Face Detection:** The system can detect faces in real-time through a camera feed or static images.
 
 - **Mask Detection:** The application goes a step further by classifying each detected face as either wearing a mask or not.
+
+## FILE TO RUN
+mask3.py
